@@ -1,13 +1,17 @@
 [
   "sqft_living",
   "grade",
+  "sqft_above",
   "sqft_living15",
   "bathrooms",
+  "total_rooms",
   "view",
   "sqft_basement",
+  "bedrooms",
   "lat",
   "waterfront",
   "floors",
   "has_basement",
-  "yr_renovated"
+  "yr_renovated",
+  "renovated"
 ]
